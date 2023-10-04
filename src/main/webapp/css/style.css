@@ -14,12 +14,12 @@ a{
     height: 100px;
 }
 .logo{
-    width: 100px;
+    width: 200px;
     height: 100px;
     float: left;
 }
 .logo img{
-    width: 100px;
+    width: 200px;
     height: 100px;
 }
 .login{
@@ -48,7 +48,7 @@ a{
   }
  .search {
  float:left;
- left:375px;
+ left:275px;
  top:30px;
  position: relative;
  width: 300px;
@@ -79,6 +79,48 @@ a{
     float: left;
     background-color: aquamarine;
 }
+.slideimg{
+	width: 800px;
+	height: 400px;
+	float: left;
+	background-color: black;
+}
+.notice{
+	width: 400px;
+	height: 200px;
+	float: right;
+}
+.notice li{
+    height: 32px;
+    line-height: 32px;
+    font-size: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.notice li span{
+    float: right;
+}
+.notice li:hover{
+    font-weight: bold;
+}
+.ask{
+	width: 400px;
+	height: 200px;
+	float: right;
+}
+.ask li{
+    height: 32px;
+    line-height: 32px;
+    font-size: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.ask li span{
+    float: right;
+}
+.ask li:hover{
+    font-weight: bold;
+}
 .menu1{
     width: 1200px;
     height: 300px;
@@ -94,7 +136,6 @@ a{
 	width: 300px;
 	height: 200px;
 	text-align: center;
-	
 }
 .body2{
 	float: left;
@@ -106,7 +147,6 @@ a{
 	width: 300px;
 	height: 200px;
 	text-align: center;
-	
 }
 .body3{
 	float: left;
@@ -118,7 +158,6 @@ a{
 	width: 300px;
 	height: 200px;
 	text-align: center;
-	
 }
 .body4{
 	float: left;

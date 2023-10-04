@@ -7,6 +7,10 @@
 <title>난정쇼핑shop-회원가입</title>
 </head>
 <body>
-
+	<form name="frm" style="display: flex; align-items: center; justify-content: center;">
+		<table border="1">
+			
+		</table>
+	</form>
 </body>
 </html>

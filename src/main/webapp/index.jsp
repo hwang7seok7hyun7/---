@@ -10,7 +10,7 @@
 <body>
     <div class="header">
         <div class="logo">
-			<a href="index.jsp"><img src="img/KakaoTalk_20230921_112512895-removebg-preview.png" alt="로고"></a>
+			<a href="index.jsp"><img src="img/logo.png" alt="로고"></a>
         </div>
         <div class="search">
   		<input type="text" placeholder="검색어 입력">
@@ -33,7 +33,32 @@
     </div>
     
     <div class="bodywrap">
-   		<div class="imgslide"></div>
+   		<div class="imgslide">
+            <div class="slideimg">
+                <a href="#"><img src="img/img1.png" alt="슬라이드1"></a>
+            </div>
+            <div class="notice">
+            <h4>공지사항</h4>
+                <ul>
+                    <li><a href="#">추석연휴 배송안내<span>2023.09.17</span></a></li>
+                    <li><a href="#">추석연휴 배송안내<span>2023.09.17</span></a></li>
+                    <li><a href="#">추석연휴 배송안내<span>2023.09.17</span></a></li>
+                    <li><a href="#">추석연휴 배송안내<span>2023.09.17</span></a></li>
+                    <li><a href="#">추석연휴 배송안내<span>2023.09.17</span></a></li>
+                </ul>
+            </div>
+            <div class="ask">
+                	<h4>문의사항</h4>
+                <ul>
+                    <li><a href="#">추석연휴 배송안내<span>2023.09.17</span></a></li>
+                    <li><a href="#">추석연휴 배송안내<span>2023.09.17</span></a></li>
+                    <li><a href="#">추석연휴 배송안내<span>2023.09.17</span></a></li>
+                    <li><a href="#">추석연휴 배송안내<span>2023.09.17</span></a></li>
+                    <li><a href="#">추석연휴 배송안내<span>2023.09.17</span></a></li>
+                </ul>
+                </div>
+            
+   		</div>
         <div class="menu1">
             <ul class="body1">
                 <li>
