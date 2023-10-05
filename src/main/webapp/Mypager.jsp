@@ -10,7 +10,7 @@
 <body>
 	<div class="header">
         <div class="logo">
-			<a href="index.jsp"><img src="img/KakaoTalk_20230921_112512895-removebg-preview.png" alt="로고"></a>
+			<a href="index.jsp"><img src="img/logo.png" alt="로고"></a>
 
         </div>
         <div class="search">
