@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/style2.css">
 <title>Mypager</title>
 </head>
 <body>
@@ -19,10 +19,7 @@
 		</div>
         <nav class="login">
             <ul class="loginnav">
-                <li><a href="member.jsp"><span class="separator">회원가입</span></a></li>
-            </ul>
-            <ul class="loginnav">
-                <li><a href="login.jsp"><span class="separator">로그인</span></a></li>
+                <li><a href="index.jsp"><span class="separator">로그아웃</span></a></li>
             </ul>
             <ul class="loginnav">
                 <li><a href="pakege.jsp"><span class="separator">장바구니</span></a></li>

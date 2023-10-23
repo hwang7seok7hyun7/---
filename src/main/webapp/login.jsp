@@ -10,9 +10,9 @@
 <body>
     <div class="login-form">
     	<h2>난정쇼핑Shop</h2>
-        <form>
-            <input type="text" name="email" class="text-field" placeholder="아이디">
-            <input type="password" name="password" class="text-field" placeholder="비밀번호">
+        <form method="post" action="l_action.jsp">
+            <input type="text" name="id" class="text-field" placeholder="아이디">
+            <input type="password" name="pass" class="text-field" placeholder="비밀번호">
             <input type="submit" value="로그인" class="submit-btn">
         </form>
 
